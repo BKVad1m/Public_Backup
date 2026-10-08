@@ -1,0 +1,10 @@
+(pieces: [
+    (
+        // Place at: 17705 14978 237
+        specifier: "test",
+        offset: (0, 0, 0),
+        overrides: {
+            0: (kind: Air, sprite: Some(Empty), ori: Some(0)),
+        },
+    ),
+])

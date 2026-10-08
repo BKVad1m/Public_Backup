@@ -1,0 +1,35 @@
+(pieces: [
+    (
+        specifier: "Oasis_Hard_Cover",
+        offset: (0, 0, 0),
+        overrides: {
+            77: (kind: Sand),
+            112: (kind: Wood),
+            113: (kind: Wood),
+            114: (kind: Wood),
+            128: (kind: Wood),
+            129: (kind: Wood),
+            136: (kind: Water),
+            168: (kind: Leaves),
+            169: (kind: Leaves),
+            170: (kind: Wood),
+            171: (kind: Wood),
+            172: (kind: Leaves),
+            200: (kind: Wood),
+            201: (kind: Leaves),
+            202: (kind: Leaves),
+            203: (kind: Leaves),
+            204: (kind: Wood),
+            205: (kind: Air, Some(Apple)),
+            },
+        ),
+])
+//Place at: 14728 16567 377
+//    (
+//        // Place at: 17705 14978 237
+//        specifier: "stage",
+//        offset: (0, 0, 0),
+//        overrides: {
+//            180: (kind: Air, sprite: Some(WallLampSmall), ori: Some(0)),
+//        },
+//    ),

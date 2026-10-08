@@ -1,0 +1,30 @@
+(pieces: [
+    (
+        // Place at: 17705 14978 237
+        specifier: "arena_serene3",
+        offset: (0, 0, 18),
+        overrides: {
+            120: (kind: Water),
+            128: (kind: Air, sprite: Some(ShortGrass), ori: Some(0)),
+            129: (kind: Air, sprite: Some(MediumGrass), ori: Some(0)),
+            130: (kind: Air, sprite: Some(LongGrass), ori: Some(0)),
+            136: (kind: Air, sprite: Some(PinkFlower), ori: Some(0)),
+            137: (kind: Air, sprite: Some(WhiteFlower), ori: Some(0)),
+            138: (kind: Air, sprite: Some(LanternFlower), ori: Some(0)),
+            144: (kind: Air, sprite: Some(Lantern), ori: Some(0)),
+            200: (kind: Air, sprite: Some(Door), ori: Some(0)),
+            201: (kind: Air, sprite: Some(Door), ori: Some(4)),
+            202: (kind: Air, sprite: Some(Door), ori: Some(2)),
+            203: (kind: Air, sprite: Some(Door), ori: Some(6)),
+            204: (kind: Air, sprite: Some(Window1), ori: Some(0)),
+            205: (kind: Air, sprite: Some(Window1), ori: Some(2)),
+            208: (kind: Air, sprite: Some(Bed), ori: Some(0)),
+            209: (kind: Air, sprite: Some(TableDouble), ori: Some(0)),
+            210: (kind: Air, sprite: Some(ChairSingle), ori: Some(6)),
+            211: (kind: Air, sprite: Some(ChairSingle), ori: Some(4)),
+            212: (kind: Air, sprite: Some(ChairSingle), ori: Some(2)),
+            213: (kind: Air, sprite: Some(ChairSingle), ori: Some(0)),
+            214: (kind: Air, sprite: Some(DrawerSmall), ori: Some(0)),
+        },
+    ),
+])
